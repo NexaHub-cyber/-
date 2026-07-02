@@ -88,8 +88,7 @@ local RecordedPaths = {
         Vector3.new(-1406.44, 521.42, 720.41),
         Vector3.new(-1408.48, 553.23, 720.34),
         Vector3.new(-1430.36, 531.48, 743.99),
-        Vector3.new(-1431.12, 529.21, 761.19),
-    }
-}
+        Vector3.new(-1432.19, 532.72, 759.03),
+
 
 return RecordedPaths
